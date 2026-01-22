@@ -1,0 +1,6 @@
+Name: [Your Full Name]
+Matric Number: [Your Matric Number]
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib
+Live URL of the Hosted Application: [Your Deployed URL - e.g., https://your-app.onrender.com]
+GitHub Repository Link: [Your GitHub Repo URL - e.g., https://github.com/yourusername/Titanic_Project_YourName_MatricNo]
