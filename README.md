@@ -27,12 +27,12 @@ The model uses the following 5 features:
 - **Machine Learning:** scikit-learn
 - **Model Persistence:** Joblib
 - **Frontend:** HTML, CSS
-- **Deployment:** Render.com / PythonAnywhere
+- **Deployment:** Render.com 
 
 ## 📁 Project Structure
 
 ```
-Titanic_Project_yourName_matricNo/
+Titanic_Project_TreasureEhiomhen_23CGO34059/
 │
 ├── app.py                              # Flask web application
 ├── requirements.txt                    # Python dependencies
@@ -61,8 +61,8 @@ Titanic_Project_yourName_matricNo/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Titanic_Project_YourName_MatricNo.git
-cd Titanic_Project_YourName_MatricNo
+git clone (https://github.com/treasurebby/Titanic_Project_TreasureEhiomhen_23CGO34059)
+cd Titanic_Project_TreasureEhiomhen_23CGO34059
 ```
 
 ### Step 2: Install Dependencies
@@ -106,23 +106,6 @@ Did Not Survive     0.84      0.87      0.85       105
       accuracy                          0.82       179
 ```
 
-## 🌐 Deployment
-
-### Option 1: Deploy to Render.com
-
-1. Create a new Web Service on Render
-2. Connect your GitHub repository
-3. Set build command: `pip install -r requirements.txt`
-4. Set start command: `gunicorn app:app`
-5. Deploy
-
-### Option 2: Deploy to PythonAnywhere
-
-1. Upload your project files
-2. Create a new web app
-3. Configure WSGI file to point to `app.py`
-4. Install requirements: `pip install -r requirements.txt`
-5. Reload the web app
 
 ## 💻 Usage
 
@@ -194,8 +177,8 @@ You can modify the model by editing `model/model_building.py`:
 
 ## 👤 Author
 
-**[Your Name]**  
-Matric Number: [Your Matric Number]  
+**Ehiomhen Treasure**  
+Matric Number: 23CG034059
 Date: January 2026
 
 ## 📄 License
