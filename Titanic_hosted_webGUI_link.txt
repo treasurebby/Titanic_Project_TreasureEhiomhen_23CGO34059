@@ -1,6 +1,6 @@
-Name: [Your Full Name]
-Matric Number: [Your Matric Number]
+Name: Ehiomhen Treasure
+Matric Number: 23CG034059
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method Used: Joblib
-Live URL of the Hosted Application: [Your Deployed URL - e.g., https://your-app.onrender.com]
-GitHub Repository Link: [Your GitHub Repo URL - e.g., https://github.com/yourusername/Titanic_Project_YourName_MatricNo]
+Live URL of the Hosted Application: https://titanic-project-treasureehiomhen.onrender.com
+GitHub Repository Link: https://github.com/treasurebby/Titanic_Project_TreasureEhiomhen_23CGO34059
